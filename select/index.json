@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "イフ",
+  "base_artist": "月詠み",
+  "createdAt": "2025-12-29T16:21:23.630825Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "テル・ミー・イフ・ユー・スティル・ケア",
+      "artist": "The S.O.S. Band",
+      "has_synced": false,
+      "path": "select/01_テル・ミー・イフ・ユー・スティル・ケア_The_S.O.S._Band.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イフ・ユー・ドント・ノー・ミー・バイ・ナウ (二人の絆)",
+      "artist": "Harold Melvin feat. The Blue Notes",
+      "has_synced": false,
+      "path": "select/02_イフ・ユー・ドント・ノー・ミー・バイ・ナウ_(二人の絆)_Harold_Melvin_feat._The_Blue_Notes.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "イフ・アイム・オーネスト",
+      "artist": "All That Remains",
+      "has_synced": false,
+      "path": "select/03_イフ・アイム・オーネスト_All_That_Remains.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "イフ・アイ・クッド・ゴー",
+      "artist": "Angie Martinez, Sacario & Lil' Mo",
+      "has_synced": true,
+      "path": "select/04_イフ・アイ・クッド・ゴー_Angie_Martinez,_Sacario_&_Lil'_Mo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "イフ (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/05_イフ_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "イフ・ユー・ワー・ヒア・トゥナイト",
+      "artist": "Alexander O'Neal",
+      "has_synced": true,
+      "path": "select/06_イフ・ユー・ワー・ヒア・トゥナイト_Alexander_O'Neal.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If You Wanna Leave Me (Can I Come Too?) = イフ・ユー・ワナ・リーヴ・ミー",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/07_If_You_Wanna_Leave_Me_(Can_I_Come_Too_)_=_イフ・ユー・ワナ・リーヴ・ミー_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "If You Wanna Leave Me (Can I Come Too?) = イフ・ユー・ワナ・リーヴ・ミー",
+      "artist": "Adams, Bryan",
+      "has_synced": true,
+      "path": "select/08_If_You_Wanna_Leave_Me_(Can_I_Come_Too_)_=_イフ・ユー・ワナ・リーヴ・ミー_Adams,_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "イフ - IF (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/09_イフ_-_IF_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "イフ",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク",
+      "has_synced": true,
+      "path": "select/10_イフ_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "イフ - IF (feat. 花里みのり",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/11_イフ_-_IF_(feat._花里みのり_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "If I Lose Myself (イフ・アイ・ルーズ・マイセルフ)",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/12_If_I_Lose_Myself_(イフ・アイ・ルーズ・マイセルフ)_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "イフ (feat. 花里みのり & 桐谷遥 & 桃井愛莉 & 日野森雫 & 初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/13_イフ_(feat._花里みのり_&_桐谷遥_&_桃井愛莉_&_日野森雫_&_初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "イフ",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/14_イフ_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "イフ (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP！",
+      "has_synced": true,
+      "path": "select/15_イフ_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "イフ (instrumental)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/16_イフ_(instrumental)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "イフ",
+      "artist": "MORE MORE JUMP！",
+      "has_synced": true,
+      "path": "select/17_イフ_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "イフ",
+      "artist": "月詠み",
+      "has_synced": true,
+      "path": "select/18_イフ_月詠み.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イフ",
+      "artist": "月詠み",
+      "has_synced": false,
+      "path": "select/pl_01_イフ_月詠み.txt"
+    }
+  ]
+}
